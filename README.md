@@ -15,6 +15,10 @@ Useful links:
 We'd like to thank Bastiaan Konings Schuiling, who authored and open-sourced the original version of this game.
 
 
+## Final Model
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/45353722/176465151-e7464388-715b-4fcb-bc30-1f8a10086ee7.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/45353722/176465197-baf6b3ae-db51-4a15-9531-46aef9a2a3f6.gif)
+
 ## Quick Start
 
 ### In colab
